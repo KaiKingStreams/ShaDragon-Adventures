@@ -1,4 +1,9 @@
+
+
 Server IP: (Note: Server is being worked on so please be patient with us) 
+
+CurseForge:[Site](https://www.curseforge.com/minecraft/modpacks/shadragon-adventures)
+CurseForge Instant Download:[Download](https://www.curseforge.com/minecraft/modpacks/shadragon-adventures/install/4789510)
 
 Discover New Worlds and Civilizations with the Stargate
 
