@@ -1,12 +1,11 @@
-# ShaDragon Adventures
+# ![alt text](https://www.bisecthosting.com/images/CF/Sha_Dragon_Adventure/BH_SDA_Header.webp)
 Server IP: (Note: Server is being worked on so please be patient with us) 
 
 CurseForge:[Site](https://www.curseforge.com/minecraft/modpacks/shadragon-adventures)
 
 CurseForge Instant Download:[Download](https://www.curseforge.com/minecraft/modpacks/shadragon-adventures/install/4789510)
 
-
-# Overview
+# ![alt text](https://www.bisecthosting.com/images/CF/Sha_Dragon_Adventure/BH_SDA_Desc1.webp)
 Discover New Worlds and Civilizations with the Stargate
 
 Embark on Epic Interstellar Journeys with the Stargate
@@ -17,8 +16,7 @@ At its core, the Stargate is an immense circular structure crafted from an imagi
 
 However, the Stargate is more than just a tool for exploration and diplomacy; it also assumes a crucial role as a strategic asset in the ongoing battle against the formidable Goa'uld.
 
-# Features
-
+# ![alt text](https://www.bisecthosting.com/images/CF/Sha_Dragon_Adventure/BH_SDA_Desc2.webp)
 1. Diverse Mod Selection: ShaDragon Adventures brings together a wide range of mods, carefully selected to enhance your gaming experience in unique and exciting ways.
 
 2. Customized Gameplay: Tailor your gaming experience with an assortment of configurable settings and tweaks, allowing you to play your way.
@@ -43,12 +41,10 @@ However, the Stargate is more than just a tool for exploration and diplomacy; it
 
 12. Community Support: Join our vibrant and helpful community for guidance, troubleshooting, and sharing your in-game experiences with fellow players.
 
-
+![alt text](https://www.bisecthosting.com/images/CF/Sha_Dragon_Adventure/BH_SDA_Desc3.webp)
+https://discord.com/invite/e7tKuRZj2e
 
 # Offical Partner for [Biscet Hosting](https://bisecthosting.com/SHADRAGON) 
-
 Experience ShaDragon Adventures with friends and family by hosting a game server on BisectHosting. With a presence in 20 locations across the globe and over ten years of experience, they are the perfect choice for a smooth and enjoyable gaming session. Their automated modpack installation and update system ensures your server is always up-to-date, and their dedicated 24/7 support team is ready to assist you with any game-related questions. Don't forget to use promo code SHADRAGON for a 25% discount on your first month as a new customer!
 
-
-
- 
+![alt text](https://www.bisecthosting.com/images/CF/Sha_Dragon_Adventure/BH_SDA_Promo.webp)
