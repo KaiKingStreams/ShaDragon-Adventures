@@ -3,6 +3,8 @@ Server IP: (Note: Server is being worked on so please be patient with us) 
 
 CurseForge:[Site](https://www.curseforge.com/minecraft/modpacks/shadragon-adventures)
 
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/790398)
+
 CurseForge Instant Download:[Download](https://www.curseforge.com/minecraft/modpacks/shadragon-adventures/install/4789510)
 
 # ![alt text](https://www.bisecthosting.com/images/CF/Sha_Dragon_Adventure/BH_SDA_Desc1.webp)
