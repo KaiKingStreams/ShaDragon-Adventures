@@ -1,0 +1,37 @@
+If you have previously installed any of my custom sounds for my LT structures,
+check Guide 2 down here, if not - Guide 1!
+
+Guide 1
+
+- 0. If you don't want to use custom sounds, skip to step 3!
+
+- 1. Drop "customdisc" folder to your .minecraft folder
+
+- 2. Put "custom_disc.cfg" file in your config folder
+
+- 3. Start game
+
+- 4. Open "Destiny Ramp v3" file and copy everything from it
+
+- 5. Place Little Importer, press "paste" and import the door
+
+- 6. For better placement you can hold LShift for door to snap to blocks
+
+- 7. Enjoy!
+
+Guide 2
+
+- 1. Copy files from new "customdisc" folder and merge them with your old one in
+.minecraft
+
+- 2. Open "custom_disc.cfg" file in your config folder, then add registers to it:
+        dst_button
+        dst_button_locked
+
+- 3. If you made everything right, you are free to go!
+
+P.S - Connect buttons with 4-bit little wire,
+you can combine multiple buttons too!
+
+
+                                  - By Destiny A.I.

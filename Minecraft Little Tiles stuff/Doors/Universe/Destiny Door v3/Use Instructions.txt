@@ -1,0 +1,21 @@
+
+- 0. If you don't want to have custom sounds, skip to step 3!
+
+- 1. Drop "customdisc" folder to your .minecraft folder
+
+- 2. Put "custom_disc.cfg" file in your config folder
+
+- 3. Start game
+
+- 4. Open "Destiny Door v2" file and copy everything from it
+
+- 5. Place Little Importer, press "paste" and import the door
+
+- 6. For better placement you can hold LShift for door to snap to blocks
+
+- 7. Enjoy!
+
+UPD - Door now can be only opened by inputing a signal!
+(Check my Destiny Button)
+
+                                  - By Destiny A.I.

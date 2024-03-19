@@ -1,0 +1,1 @@
+{"dst_door_close":{"sounds":[{"name":"customdisc:dst_door_close","preload":true,"stream":true}]},"dst_lock":{"sounds":[{"name":"customdisc:dst_lock","preload":true,"stream":true}]},"dst_door_open":{"sounds":[{"name":"customdisc:dst_door_open","preload":true,"stream":true}]}}
